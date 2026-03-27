@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Hello there, fellow <developers/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
+<h2> Hello there, fellow developers! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30"></h2>
 </div>
 
 <div align="center" width="50">
@@ -10,11 +10,14 @@
 
 <div align="center">
 
-You have discovered my Github profile. <br>
-I'm **Donia Solyman**, a beginner **Frontend Developer** passionate about learning and building web applications. <br>
-I'm currently improving my skills in **HTML, CSS, and JavaScript** and working on my first projects. <br><br>
+You have discovered my GitHub profile. <br>
+I'm <b>Donia Solyman</b>, a beginner <b>Frontend Developer</b> passionate about learning and building web applications. <br>
+I'm currently improving my skills in <b>HTML, CSS, and JavaScript</b> and working on my first web projects. <br><br>
 
-Feel free to explore my repositories and follow my learning journey 🚀<br>
+💻 I love creating simple and clean user interfaces. <br>
+🚀 Currently learning and growing step by step in the world of web development. <br><br>
+
+Feel free to explore my repositories and follow my learning journey 🚀 <br>
 If you have any questions or want to collaborate, feel free to reach out!
 
 📧 Email: <a href="mailto:duniasaed50@gmail.com"><b>duniasaed50@gmail.com</b></a>
