@@ -3,7 +3,6 @@
   <img src="https://raw.githubusercontent.com/doniasolyman/doniasolyman/main/banner.png" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋 I'm Donia Solyman</h1>
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=doniasolyman&label=Profile%20views&color=0e75b6&style=flat" alt="doniasolyman" /> 
 </p>
