@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/doniasolyman/doniasolyman/main/banner.png" width="100%" />
 </p>
@@ -8,6 +9,9 @@
 Frontend Developer | Passionate about Web Development
 </h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;HTML+CSS+JavaScript;React+Learner;Web+Enthusiast&center=true&width=500&height=50">
+</p>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=doniasolyman&label=Profile%20views&color=0e75b6&style=flat" alt="doniasolyman" /> 
