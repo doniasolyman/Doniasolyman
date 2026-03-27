@@ -19,7 +19,7 @@ Frontend Developer | Passionate about Web Development
 - 🌱 I’m currently learning **Frontend Development**
 - 💻 I’m passionate about **building modern web interfaces**
 - 📫 Reach me at **duniasaed50@gmail.com**
-- 🎓 Business technology Student
+- 🎓 Business Technology Student
 - 📍 Based in **Egypt**
 
 ---
