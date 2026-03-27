@@ -1,20 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Full+Stack+Developer;Open+Source+Contributor;Web+Developer&center=true&width=500&height=50">
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,git,github" />
-</p>
-
-
-<p align="center">
-  <a href="#"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
-  <a href="#"><img src="https://img.icons8.com/color/48/github.png"/></a>
-</p>
-
-
-
-
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=doniasolyman&label=Profile%20views&color=0e75b6&style=flat" alt="doniasolyman" /> 
