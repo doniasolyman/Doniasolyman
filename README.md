@@ -1,54 +1,70 @@
-<div align="center">
-<h2> Hello there, fellow developers! <img src="https://github.com/doniasolyman/doniasolyman/blob/master/gifs/Hi.gif" width="30"></h2>
-</div>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=doniasolyman&label=Profile%20views&color=0e75b6&style=flat" alt="doniasolyman" /> 
+</p>
 
-<div align="center" width="50">
+<h1 align="center">
+Hi there 
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px"> 
+I'm Donia Solyman
+</h1>
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+<h3 align="center">
+Frontend Developer | Passionate about Web Development
+</h3>
 
-</div>
+<br/>
 
-<div align="center">
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-You have discovered my GitHub profile. <br>
-I'm <b>Donia Solyman</b>, a beginner <b>Frontend Developer</b> passionate about learning and building web applications. <br>
-I'm currently improving my skills in <b>HTML, CSS, and JavaScript</b> and working on my first web projects. <br><br>
-
-💻 I love creating simple and clean user interfaces. <br>
-🚀 Currently learning and growing step by step in the world of web development. <br><br>
-
-Feel free to explore my repositories and follow my learning journey 🚀 <br>
-If you have any questions or want to collaborate, feel free to reach out!
-
-📧 Email: <a href="mailto:duniasaed50@gmail.com"><b>duniasaed50@gmail.com</b></a>
-
-<i>Happy Coding!</i> 😊
-
-</div>
-
-<div align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=donia-solyman&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Donia's Github Stats">
-
-</br>
-</br>
-
-<i>Random dev joke for you!</i><br>
-
-<a href="https://readme-jokes.vercel.app">
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
-</a>
+- 🌱 I’m currently learning **Frontend Development**
+- 💻 I’m passionate about **building modern web interfaces**
+- 📫 Reach me at **duniasaed50@gmail.com**
+- 🎓 Computer Science Student
+- 📍 Based in **Egypt**
 
 ---
 
-<i>Connect with me:</i><br>
+## 🌐 Connect with me
 
-<a href="mailto:duniasaed50@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duniasaed50@gmail.com)
 
-<a href="https://github.com/donia-solyman" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
+---
 
-</div>
+## 🛠 Skills
+
+<p align="center">
+
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<table width="100%" align="center">
+<tr>
+<td>
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=doniasolyman&show_icons=true&theme=radical"/>
+</td>
+<td>
+<img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=doniasolyman&theme=radical"/>
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+⭐ From <b>Donia Solyman</b>
+</p>
