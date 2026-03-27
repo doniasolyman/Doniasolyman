@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="LINK_HERE" />
+</p>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=doniasolyman&label=Profile%20views&color=0e75b6&style=flat" alt="doniasolyman" /> 
