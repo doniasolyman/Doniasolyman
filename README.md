@@ -1,10 +1,3 @@
-
-<h1 align="center">Hi there 👋 I'm Donia Solyman</h1>
-
-<h3 align="center">
-A Passionate Java Full Stack/Web Developer | Software Engineer Enthusiast
-</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;Full+Stack+Developer;Open+Source+Contributor;Web+Developer&center=true&width=500&height=50">
 </p>
