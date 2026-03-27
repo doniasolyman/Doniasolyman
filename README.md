@@ -6,18 +6,6 @@
   <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,git,github" />
 </p>
 
----
-
-### 👩‍💻 About Me
-
-- 💻 Full Stack Developer  
-- 🚀 Interested in Web Development  
-- 🌱 Currently learning new technologies  
-- 🤝 Open to collaboration  
-
----
-
-### 🔗 Connect with me
 
 <p align="center">
   <a href="#"><img src="https://img.icons8.com/color/48/linkedin.png"/></a>
